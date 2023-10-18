@@ -12,3 +12,4 @@ hello  jiayou! helllo  jianchi!!
 branch 
 github
 ssh
+ssh  push test
